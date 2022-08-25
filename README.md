@@ -1,20 +1,21 @@
 # :purple_heart:Clari
 ## Index
-- [About Me](README.md#About-Me)
-- [My Links](README.md#Links)
+|[About Me](README.md#About-Me)|[My Links](README.md#Links)|
+|---|---|
 
 ## About Me
-Hi I'm a dev nerd. I have a bunch of bots
-- And a [pretty cool server](https://discord.gg/EQkDnBS)
-- I also mod for [the Finch server](https://discord.gg/finchfam)
-- I made a [fun game](https://ttt.zanderp25.com)
+Hello! I'm Clari!
+I code in Python, JavaScript, and occasionally Java.
+I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.
+I have a bunch of bots.
 
 ## Links
 todo- add images+links
 
-<details><summary><strong>Information</strong></summary><br>
+<details><summary><strong><a name="information">Information</a></strong></summary><br>
   <ul>
-    <li><a href="https://en.pronouns.page/@Clari-7744" target="_blank">pronouns.page</a></li>
+    <li><a href="https://en.pronouns.page/@Clari-7744" target="_blank">Pronouns.page</a></li>
+    <li><a href="https://cake.avris.it/pC6" target="_blank">Attraction Layer Cake</a></li>
   </ul>
 </details>
 
@@ -33,11 +34,15 @@ todo- add images+links
   <summary>
     <strong>Projects</strong>
   </summary><br>
+  Discord
   <ul>
-    <li><a href="https://discord.gg/EQkDnBS" target="_blank">Discord Server</a></li>
-    <li>invite claris helper</li>
-    <li>replit</li>
-    <li><a href="https://ttt.zanderp25.com" target="_blank">TicTacToe</a></li>
+    <li><a href="https://discord.gg/EQkDnBS" target="_blank">My Server</a></li>
+    <li><a href="https://discord.com/oauth2/authorize?client_id=742036262004981801&scope=bot+applications.commands&permissions=8" target="_blank">Clari's Helper</a></li>
+  </ul>
+  Games
+  <ul>
+    <li><a href="https://ttt.zanderp25.com" target="_blank">TicTacToe Online</a></li>
+    <li><a href="https://replit.com/@ClarinetPuppy/TicTacToe?v=1" target="_blank">TicTacToe.py</a></li>
   </ul>
 </details>
 
