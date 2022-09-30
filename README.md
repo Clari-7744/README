@@ -1,12 +1,12 @@
-# :purple_heart:Clari
+# 💜Clari
 ## Index
 |[About Me](README.md#About-Me)|[My Links](README.md#Links)|
 |---|---|
 
 ## About Me
-Hello! I'm Clari!
-I code in Python, JavaScript, and occasionally Java.
-I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.
+Hello! I'm Clari!<br>
+I code in Python, JavaScript, and occasionally Java.<br>
+I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.<br>
 I have a bunch of bots.
 
 ## Links
@@ -54,3 +54,7 @@ todo- add images+links
     <li><a href="https://github.com/PortalDiscordDevelopment" target="_blank">Portal</a></li>
   </ul>
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
+(Just testing this - stolen from [sparrow001](https://github.com/sparrow001) lol)
