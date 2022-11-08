@@ -14,7 +14,7 @@ todo- add images+links
 
 <details><summary><strong>Information</strong></summary><br>
   <ul>
-    <li><a href="https://en.pronouns.page/@Clari-7744" target="_blank">Pronouns.page</a></li>
+    <li><a href="https://en.pronouns.page/@Clari_7744" target="_blank">Pronouns.page</a></li>
     <li><a href="https://cake.avris.it/pC6" target="_blank">Attraction Layer Cake</a></li>
   </ul>
 </details>
