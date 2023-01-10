@@ -55,6 +55,7 @@ todo- add images+links
   </ul>
 </details>
 
+## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
 (Just testing this - stolen from [sparrow001](https://github.com/sparrow001) lol)
