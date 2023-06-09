@@ -42,7 +42,7 @@ todo- add images+links
   Games
   <ul>
     <li><a href="https://ttt.zanderp25.com" target="_blank">TicTacToe Online</a></li>
-    <li><a href="https://replit.com/@ClarinetPuppy/TicTacToe?v=1" target="_blank">TicTacToe.py</a></li>
+    <li><a href="https://replit.com/@clari7744/TicTacToepy?v=1" target="_blank">TicTacToe.py</a></li>
   </ul>
 </details>
 
@@ -56,9 +56,9 @@ todo- add images+links
 </details>
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clari-7744)](https://github.com/anuraghazra/github-readme-stats)<br>
-(Just testing this - stolen from [sparrow001](https://github.com/sparrow001) lol)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br>
+(stolen from [sparrow001](https://github.com/sparrow001) lol)
 
 
 [![Typeracer Scores](https://data.typeracer.com/misc/badge?user=clari_7744)](https://data.typeracer.com/pit/profile?user=clari_7744)]
