@@ -24,8 +24,8 @@ todo- add images+links
     <strong>Socials</strong>
   </summary><br>
   <ul>
-    <li><a href="https://twitter.com/@Clari_7744" target="_blank">Twitter</a></li>
-    <li>YouTube</li>
+    <li><a href="https://twitter.com/clari7744" target="_blank">Twitter</a></li>
+    <li><a href="https://youtube.com/@clari_7744" target="_blank">YouTube</a></li>
     <li>Discord: 💜Clari#7744
   </ul>
 </details>
