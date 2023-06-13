@@ -1,20 +1,21 @@
 # 💜Clari
 ## Index
-|[About Me](README.md#About-Me)|[My Links](README.md#Links)|
-|---|---|
+[Haz clic para Español!](LEERME.md)
+|[About Me](README.md#About-Me)|[My Links](README.md#Links)|[My Stats](README.md#Statistics)|
+|---|---|---|
 
 ## About Me
-Hello! I'm Clari!<br>
-I code in Python, JavaScript, and occasionally Java.<br>
-I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.<br>
-I have a bunch of bots.
+<pre>Hello! I'm Clari!
+I code in Python, JavaScript, and occasionally Java.
+I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.
+I have a bunch of bots.</pre>
 
 ## Links
-todo- add images+links
 
-<details><summary><strong>Information</strong></summary><br>
+
+<details><summary><strong>Information</strong></summary><br/>
   <ul>
-    <li><a href="https://en.pronouns.page/@Clari_7744" target="_blank">Pronouns.page</a></li>
+    <li><a href="https://en.pronouns.page/@clari7744" target="_blank">Pronouns.page</a></li>
     <li><a href="https://cake.avris.it/pC6" target="_blank">Attraction Layer Cake</a></li>
   </ul>
 </details>
@@ -22,7 +23,7 @@ todo- add images+links
 <details>
   <summary>
     <strong>Socials</strong>
-  </summary><br>
+  </summary><br/>
   <ul>
     <li><a href="https://twitter.com/clari7744" target="_blank">Twitter</a></li>
     <li><a href="https://youtube.com/@clari_7744" target="_blank">YouTube</a></li>
@@ -33,7 +34,7 @@ todo- add images+links
 <details>
   <summary>
     <strong>Projects</strong>
-  </summary><br>
+  </summary><br/>
   Discord
   <ul>
     <li><a href="https://discord.gg/EQkDnBS" target="_blank">My Server</a></li>
@@ -49,15 +50,15 @@ todo- add images+links
 <details>
   <summary>
     <strong>Organizations</strong>
-  </summary><br>
+  </summary><br/>
   <ul>
     <li><a href="https://github.com/PortalDiscordDevelopment" target="_blank">Portal</a></li>
   </ul>
 </details>
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br/>
 (stolen from [sparrow001](https://github.com/sparrow001) lol)
 
 
