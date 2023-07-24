@@ -5,10 +5,13 @@
 |---|---|---|
 
 ## About Me
-<pre>Hello! I'm Clari!
-I code in Python, JavaScript, and occasionally Java.
+![Hello! I'm Clari!](https://img.shields.io/badge/Hello!-I'm_Clari!-orange)
+[![PronounDB](https://img.shields.io/endpoint?color=violet&labelColor=9542f5&style=&url=https://pronoundb.org/shields/6136ba49b023ba50b9c7bc70.json)](https://pronoundb.org)<br/>
+I code in: [![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=plastic)](httls://python.org)
+<pre>I code in Python, JavaScript, and occasionally Java.
 I run Ubuntu Linux, and spend most of my time coding, playing music, or reading.
 I have a bunch of bots.</pre>
+[![PronounDB](https://img.shields.io/endpoint?color=violet&labelColor=9542f5&style=for-the-badge&url=https://pronoundb.org/shields/6136ba49b023ba50b9c7bc70.json)](https://pronoundb.org)
 
 ## Links
 
