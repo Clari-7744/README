@@ -7,7 +7,7 @@
 ## About Me
 Hello! I'm Clari!<br/>
 
-[![PronounDB](https://img.shields.io/endpoint?color=violet&labelColor=9542f5&style=&url=https://pronoundb.org/shields/6136ba49b023ba50b9c7bc70.json?capitalize&locale=en)](https://pronoundb.org)
+[![PronounDB](https://img.shields.io/endpoint?labelColor=00f0ac&color=8052de&style=&url=https://pronoundb.org/shields/6136ba49b023ba50b9c7bc70.json%3Fcapitalize&locale=en)](https://pronoundb.org)
 ### Languages
 [![Python](https://img.shields.io/badge/Python-gray?logo=python&style=flat-square)](https://python.org) [![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript&style=flat-square)](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square)](https://typescriptlang.org) [![React](https://img.shields.io/badge/React-gray?logo=react&style=flat-square)](https://react.dev) [![HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square)](https://developer.mozilla.org/en-US/docs/Glossary/HTML) [![Java](https://img.shields.io/badge/Java-gray?logo=java&style=flat-square)](https://www.java.com/en/)
 ### Operating Systems
@@ -70,4 +70,4 @@ I have a bunch of bots.</pre>
 (stolen from [sparrow001](https://github.com/sparrow001) lol)
 
 
-[![Typeracer Scores](https://data.typeracer.com/misc/badge?user=clari_7744)](https://data.typeracer.com/pit/profile?user=clari_7744)]
+[![Typeracer Scores](https://data.typeracer.com/misc/badge?user=clari_7744)](https://data.typeracer.com/pit/profile?user=clari_7744)
