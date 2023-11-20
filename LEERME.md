@@ -25,15 +25,27 @@ Hola! Soy Clari!
 
 ### Sistemas Operativos
 
-[![Android](https://img.shields.io/badge/Android-13-3ddc84?logo=android&style=flat-square)](https://android.com/intl/es) en [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel-7a-4285f4?logo=google&style=flat-square)](https://pixel.google.com)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-e95420?logo=ubuntu&style=flat-square)](https://wiki.ubuntu.com/Spanish) [![Windows](https://img.shields.io/badge/Windows-10-00adef?logo=windows&style=flat-square)](https://microsoft.com/es/windows)
+[![Android](https://img.shields.io/badge/Android-14-3ddc84?logo=android&style=flat-square)](https://android.com/intl/es) en [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel-7a-4285f4?logo=google&style=flat-square)](https://pixel.google.com)<br/>
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-e95420?logo=ubuntu&style=flat-square)](https://wiki.ubuntu.com/Spanish)
+[![Windows](https://img.shields.io/badge/Windows-11-00adef?logo=windows&style=flat-square)](https://microsoft.com/es/windows) en [![LG Gram](https://img.shields.io/badge/LG_Gram-333333?logo=lg&style=flat-square)](https://lg.com/es)
 
 ### Encuéntrame en
 
-<a href="https://discord.com/users/642416218967375882" target="_blank"><img src="https://img.shields.io/badge/Discord-@clari7744-white?logo=discord&style=flat-square&color=454FBF&labelColor=0c0c0c" alt="@clari7744"></a>
-<a href="https://twitter.com/clari7744" target="_blank"><img src="https://img.shields.io/badge/Twitter-@clari7744-1da1f2?logo=twitter&style=flat-square&labelColor=0c0c0c" alt="@clari7744"></a>
-<a href="https://youtube.com/@clari_7744" target="_blank"><img src="https://img.shields.io/badge/YouTube-@clari__7744-ff0000?logo=youtube&style=flat-square&logoColor=ff0000&labelColor=0c0c0c" alt="@clari_7744"></a>
-<a href="https://matrix.to/#/@clari7744:matrix.org"><img src="https://img.shields.io/badge/Matrix-@clari7744:matrix.org-000000?logo=matrix&style=flat-square&labelColor=0c0c0c" alt="@clari7744:matrix.org"></a>
+<a href="https://discord.com/users/642416218967375882" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-@clari7744-white?logo=discord&style=flat-square&color=5865f2&labelColor=0c0c0c" alt="Discord: @clari7744">
+</a>
+<a href="https://twitter.com/clari7744" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@clari7744-1da1f2?logo=twitter&style=flat-square&labelColor=0c0c0c" alt="Twitter: @clari7744">
+</a>
+<a href="https://youtube.com/@clari_7744" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-@clari__7744-ff0000?logo=youtube&style=flat-square&logoColor=ff0000&labelColor=0c0c0c" alt="YouTube: @clari_7744">
+</a>
+<a href="https://matrix.to/#/@clari7744:matrix.org">
+  <img src="https://img.shields.io/badge/Matrix-@clari7744:matrix.org-000000?logo=matrix&style=flat-square&labelColor=0c0c0c">
+</a>
+<a rel="me" href="https://tech.lgbt/@clari7744">
+  <img src="https://img.shields.io/badge/Mastodon-@clari7744@tech.lgbt-000000?logo=mastodon&style=flat-square&color=563acc&labelColor=0c0c0c" alt="Mastodon: @clari7744@tech.lgbt" />
+</a>
 
 <pre>Paso la mayoría de mi tiempo programando, tocando música, o leyendo. Tengo un montón de bots.</pre>
 
