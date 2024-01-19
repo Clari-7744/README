@@ -3,8 +3,8 @@
 ## Index
 
 [Haz clic para Español!](LEERME.md)
-|[About Me](#About-Me)|[Links](#Links)|[Stats](#Statistics)|
-|---|---|---|
+| [About Me](#About-Me) | [Links](#Links) | [Stats](#Statistics) |
+| --------------------- | --------------- | -------------------- |
 
 ## About Me
 
@@ -94,8 +94,7 @@ I have a bunch of bots.</pre>
 
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clari7744)](https://github.com/anuraghazra/github-readme-stats)<br/>
-(stolen from [sparrow001](https://github.com/sparrow001) lol)
+[![GitHub stats](https://github-readme-stats-clari.vercel.app/api?username=clari7744&locale=en&theme=tokyonight&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true)](https://github.com/clari7744/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats-clari.vercel.app/api/top-langs/?username=clari7744&locale=en&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,cython)](https://github.com/clari7744/github-readme-stats)<br/>
 
 [![Typeracer Scores](https://data.typeracer.com/misc/badge?user=clari_7744)](https://data.typeracer.com/pit/profile?user=clari_7744)
