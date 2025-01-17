@@ -31,13 +31,13 @@ Hola! Soy Clari!
 
 ### Encuéntrame en
 
-<a href="https://discord.com/users/642416218967375882" target="_blank">
+<a href="https://discord.com/users/642416218967375882">
   <img src="https://img.shields.io/badge/Discord-@clari7744-white?logo=discord&style=flat-square&color=5865f2&labelColor=0c0c0c" alt="Discord: @clari7744">
 </a>
-<a href="https://twitter.com/clari7744" target="_blank">
+<a href="https://twitter.com/clari7744">
   <img src="https://img.shields.io/badge/Twitter-@clari7744-1da1f2?logo=twitter&style=flat-square&labelColor=0c0c0c" alt="Twitter: @clari7744">
 </a>
-<a href="https://youtube.com/@clari_7744" target="_blank">
+<a href="https://youtube.com/@clari_7744">
   <img src="https://img.shields.io/badge/YouTube-@clari__7744-ff0000?logo=youtube&style=flat-square&logoColor=ff0000&labelColor=0c0c0c" alt="YouTube: @clari_7744">
 </a>
 <a href="https://matrix.to/#/@clari7744:matrix.org">
@@ -45,6 +45,9 @@ Hola! Soy Clari!
 </a>
 <a rel="me" href="https://tech.lgbt/@clari7744">
   <img src="https://img.shields.io/badge/Mastodon-@clari7744@tech.lgbt-000000?logo=mastodon&style=flat-square&color=563acc&labelColor=0c0c0c" alt="Mastodon: @clari7744@tech.lgbt" />
+</a>
+<a href="https://bsky.app/profile/clari7744.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-@clari7744-000000?logo=bluesky&style=flat-square&color=1da1f2&labelColor=0c0c0c" alt="Bluesky: @clari7744">
 </a>
 
 <pre>Paso la mayoría de mi tiempo programando, tocando música, o leyendo. Tengo un montón de bots.</pre>
@@ -54,6 +57,7 @@ Hola! Soy Clari!
 <details><summary><strong>Información</strong></summary><br/>
   <ul>
     <li><a href="https://pronouns.page/@clari7744" target="_blank">Pronombr.es</a></li>
+    <li><a href="https://cake.avris.it/rB5" target="_blank">Attraction Layer Cake</a></li>
   </ul>
 </details>
 
